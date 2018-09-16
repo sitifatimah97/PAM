@@ -1,2 +1,0 @@
-# PAM
-tugas 2
